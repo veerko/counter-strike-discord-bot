@@ -16,22 +16,13 @@
 If deploying to Heroku make sure to create config variables
 
 ```
-git clone https://github.com/im-parsa/csgo-bot.git
+git clone https://github.com/st1ko-gs/counter-strike-discord-bot.git
 cd csgo-bot
 npm install
 ```
 
 After installation finishes you can use `node index.js` or `npm start` to start the bot
 
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/im-parsa/csgo-bot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/csgo-bot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
-
 ## 📝 Credits
 
-[@im-parsa](https://github.com/im-parsa)
+[@im-parsa](https://github.com/st1ko-gs)
