@@ -25,4 +25,4 @@ After installation finishes you can use `node index.js` or `npm start` to start 
 
 ## 📝 Credits
 
-[@im-parsa](https://github.com/st1ko-gs)
+[@st1ko-gs](https://github.com/st1ko-gs)
