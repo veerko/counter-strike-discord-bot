@@ -1,4 +1,4 @@
-//auth
+//auth: st1ko-gs
 
 const Discord = require("discord.js");
 const SourceQuery = require('sourcequery');
