@@ -1,3 +1,5 @@
+//auth
+
 const Discord = require("discord.js");
 const SourceQuery = require('sourcequery');
 const client = new Discord.Client();
