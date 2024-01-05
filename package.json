@@ -1,5 +1,5 @@
 {
-  "name": "csgo-bot",
+  "name": "cs2-bot",
   "version": "1.0.0",
   "description": "Just simple discord bot built with discord.js",
   "main": "index.js",

@@ -31,7 +31,7 @@ client.on("message", async message => {
                 message.channel.send({
                   embed: {
                     color: 9459760,
-                    title: `${ip} CS:GO Server Status`,
+                    title: `${ip} CS2 Server Status`,
                     fields: [{
                       name: "📦 Server Name",
                       value: "***"+info.name+"***"+"  `" + info.game + "`"
